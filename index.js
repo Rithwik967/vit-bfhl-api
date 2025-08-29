@@ -95,5 +95,5 @@ app.post('/bfhl', (req, res) => {
 });
 
 app.listen(PORT, () => {
-    console.log(`🚀 Server is running and listening on port ${PORT}`);
+    console.log(`Server is running & listening on port ${PORT}`);
 });
